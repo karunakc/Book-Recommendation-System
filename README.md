@@ -11,7 +11,7 @@ If you want to jump head-first and get started with Contributions, head over to
 ## Getting Started
 Here's How you can get the program running in your machines :
 ```
-    Open your command prompt.
+    Open your command prompt (windows user, enter cmd in the search bar)
     Navigate to the directory in which you have the csv file and the python file stored in.
     csv file and python file must be stored in the same folder.
     enter `juyter notebook` in the cmd.
