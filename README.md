@@ -26,4 +26,4 @@ YES
 ### Specifics
 Ensure Anaconda has been installed: https://www.anaconda.com/
 ## Maintainer
-Maintainer : [https://github.com/karunakc] , [karunakkc@gmail.com]
+Maintainer : [karunakc] , [karunakkc@gmail.com]
