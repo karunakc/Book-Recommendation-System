@@ -43,9 +43,11 @@ This will copy all the files from the repository to your local folder
  - Open up the Anaconda terminal and navigate to the directory where the
    Python file and .csv files are stored.
 
-- Type in the command: jupyter notebook ![Anaconda Terminal Screenshot](https://i.ibb.co/thbdw5f/img-3.png)
+- Type in the command: jupyter notebook 
+![Anaconda Terminal Screenshot](https://i.ibb.co/thbdw5f/img-3.png)
 
-- Now select the .ipynb file, it'll open up like this ![enter image description here](https://i.ibb.co/Qk1Mz3t/img-4.png)
+- Now select the .ipynb file, it'll open up like this 
+![enter image description here](https://i.ibb.co/Qk1Mz3t/img-4.png)
 
 - Press Shift + Enter to run the first cell
 
