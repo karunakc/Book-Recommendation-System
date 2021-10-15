@@ -15,7 +15,7 @@ The program uses a Comma-separated values (.csv) file as a database for over 45,
 
 You can get recommendations in a random order as well as according to certain rating given by you.
 
-## Tools Uused
+## Tools used
 
 1. [Python](https://www.python.org)
 1. [Pandas Library](https://pandas.pydata.org/)
@@ -62,12 +62,12 @@ This will copy all the files from the repository to your local folder.
  - Press Shift + Enter to run the first cell.
 
 
- - When prompted, enter the Rating or "random" for getting book recommendations.
+ - When prompted, enter the rating or "random" for getting book recommendations.
 
 
  - Enjoy your book recommendations!
 
-Note: *It should be noted that **both** the python file and csv file must be present in the same directory.*
+Note: *It should be noted that **both** the python file and .csv file must be present in the same directory.*
 
 
 ## Software and Library Installations Required:
