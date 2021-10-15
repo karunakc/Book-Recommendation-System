@@ -1,16 +1,33 @@
-# BOOK RECOMMENDATION SYSTEM
-A simple recommendation system which generates random books or recommends books over a certain rating mentioned by you!
+## Project Title
+Book Recommendation System
+
+## Project Description 
+A simple data centric recommendation system which uses a csv books dataset to generate random books or recommends books over a certain rating mentioned by you!
+The python library has been used to perform this function.
 
 If you want to jump head-first and get started with Contributions, head over to
 `CONTRIBUTING.md` to get started!
 
-## Tech Stack
+
+## Tools Used
 - Python
-- pandas library
+- Pandas library
 - jupyter notebook
-## Getting Started
+
+## How to Clone?
+1.Fork the repository to your GitHub account.
+2.Above the list of files, click on the Code (green in color).
+3.To clone the repository using an SSH key (recommended) click on Use SSH, then click the copy to clipboard button.
+4.Now open Git Bash.
+5.Now type in the following command.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.
+6. On Pressing enter you will get a local clone copy.
+
+## Step to run the file
 Here's How you can get the program running in your machines :
 ```
+    Ensure Anaconda has been installed: https://www.anaconda.com/
+    Ensure you have installed pandas on your system : https://docs.microsoft.com/en-us/answers/questions/96580/question-about-installing-pandas-in-python.html 
     Open your command prompt (windows user, enter cmd in the search bar)
     Navigate to the directory in which you have the csv file and the python file stored in.
     csv file and python file must be stored in the same folder.
@@ -18,12 +35,8 @@ Here's How you can get the program running in your machines :
     Open the .ipynb file
     Shift enter to run the code cell
 ```
-## About the project
-A simple data centric project which uses a csv books dataset to generate random book based on ratings you enter. The python library has been used to perform this function.
-
 ### Is this project beginner friendly?
 YES
-### Specifics
-Ensure Anaconda has been installed: https://www.anaconda.com/
+
 ## Maintainer
 Maintainer : [karunakc](https://github.com/karunakc) , [gmail](https://github.com/karunakc)
