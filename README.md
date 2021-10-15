@@ -34,7 +34,7 @@ https://www.anaconda.com/products/individual**
 
 ## Instructions for cloning the project
 - You can download the repository as a zip file by clicking the green Code button in the main page.
-- ![Download as ZIP screenshot](https://i.ibb.co/Fg1fmXx/img-1.png)
+  ![Download as ZIP screenshot](https://i.ibb.co/Fg1fmXx/img-1.png)
 -  OR, Open up your Git Terminal and enter the following command:
 
     git clone https://github.com/acmpesuecc/Book-Recommendation-System.git
