@@ -1,4 +1,4 @@
-# Contribution have been frozen!
+# Contributions have been frozen!
 
 # Book Recommendation System
 
