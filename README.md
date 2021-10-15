@@ -1,5 +1,3 @@
-# Contributions have been frozen!
-
 # Book Recommendation System
 
 
@@ -78,5 +76,4 @@ Note: *It should be noted that **both** the python file and .csv file must be pr
 - [Jupyter](https://jupyter.org/install.html)
 - [Pandas](https://pandas.pydata.org/getting_started.html)
 - [Anaconda](https://www.anaconda.com/products/individual)
-
 
