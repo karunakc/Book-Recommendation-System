@@ -15,11 +15,11 @@ If you want to jump head-first and get started with Contributions, head over to
 - jupyter notebook
 
 ## How to Clone?
-1 .Fork the repository to your GitHub account.
-2 .Above the list of files, click on the Code (green in color).
-3 .To clone the repository using an SSH key (recommended) click on Use SSH, then click the copy to clipboard button.
-4 .Now open Git Bash.
-5 .Now type in the following command. $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.  
+    1 .Fork the repository to your GitHub account.
+    2 .Above the list of files, click on the Code (green in color).
+    3 .To clone the repository using an SSH key (recommended) click on Use SSH, then click the copy to clipboard button.
+    4 .Now open Git Bash.
+    5 .Now type in the following command. $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.  
     6 . On Pressing enter you will get a local clone copy.
 
 ## Step to run the file
