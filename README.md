@@ -22,7 +22,9 @@ You can get recommendations in a random order as well as according to certain ra
 ## Tools Used
 
 Python (https://www.python.org)
+
 Pandas Library (https://pandas.pydata.org/)
+
 Jupyter Notebook (https://jupyter.org/install.html)
 
 ## Requirements
