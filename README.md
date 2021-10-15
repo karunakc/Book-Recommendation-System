@@ -29,8 +29,9 @@ Jupyter Notebook (https://jupyter.org/install.html)
 
 ## Requirements
 
-**Please ensure that Anaconda is properly installed on your system
-https://www.anaconda.com/products/individual**
+**Please ensure that Anaconda is properly installed on your system**
+
+https://www.anaconda.com/products/individual
 
 ## Instructions for cloning the project
 - You can download the repository as a zip file by clicking the green Code button in the main page.
@@ -48,13 +49,13 @@ This will copy all the files from the repository to your local folder
  - Open up the Anaconda terminal and navigate to the directory where the
    Python file and .csv files are stored.
 
-- Type in the command: jupyter notebook 
+- Type in the command: **jupyter notebook** 
 
 
 ![Anaconda Terminal Screenshot](https://i.ibb.co/thbdw5f/img-3.png)
 
 
-- Now select the .ipynb file, it'll open up like this 
+- Now select the **.ipynb file**, it'll open up like this 
 
 
 ![Jupyter IDE](https://i.ibb.co/Qk1Mz3t/img-4.png)
