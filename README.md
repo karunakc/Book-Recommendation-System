@@ -29,8 +29,8 @@ Jupyter Notebook (https://jupyter.org/install.html)
 
 ## Requirements
 
-Please ensure that Anaconda is properly installed on your system
-https://www.anaconda.com/products/individual
+**Please ensure that Anaconda is properly installed on your system
+https://www.anaconda.com/products/individual**
 
 ## Instructions for cloning the project
 - You can download the repository as a zip file by clicking the green Code button in the main page.
@@ -48,11 +48,15 @@ This will copy all the files from the repository to your local folder
 
 - Type in the command: jupyter notebook 
 
+
 ![Anaconda Terminal Screenshot](https://i.ibb.co/thbdw5f/img-3.png)
+
 
 - Now select the .ipynb file, it'll open up like this 
 
+
 ![enter image description here](https://i.ibb.co/Qk1Mz3t/img-4.png)
+
 
 - Press Shift + Enter to run the first cell
 
@@ -65,7 +69,10 @@ This will copy all the files from the repository to your local folder
 Software and Library Installations Required:
 
 - Python (https://www.python.org/downloads/)
+
 - Jupyter (https://jupyter.org/install.html)
+
 - Pandas (https://pandas.pydata.org/getting_started.html)
+
 - Anaconda (https://www.anaconda.com/products/individual)
 
