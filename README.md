@@ -1,3 +1,5 @@
+# Contributions have been frozen!
+
 # Book Recommendation System
 
 
