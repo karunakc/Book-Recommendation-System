@@ -55,7 +55,7 @@ This will copy all the files from the repository to your local folder
 - Now select the .ipynb file, it'll open up like this 
 
 
-![enter image description here](https://i.ibb.co/Qk1Mz3t/img-4.png)
+![Jupyter IDE](https://i.ibb.co/Qk1Mz3t/img-4.png)
 
 
 - Press Shift + Enter to run the first cell
