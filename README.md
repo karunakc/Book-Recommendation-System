@@ -61,9 +61,10 @@ This will copy all the files from the repository to your local folder
 ![Jupyter IDE](https://i.ibb.co/Qk1Mz3t/img-4.png)
 
 
-- Press Shift + Enter to run the first cell
+- Press **Shift + Enter** to run the first cell
 
-- When prompted, enter the Rating or "random" for getting book recommendations
+- When prompted, enter the **"Rating"** or **"random"** for getting book recommendations
+
 - Enjoy your book recommendations
 
 *It should be noted that both the python file and csv file must be present in the same directory*
